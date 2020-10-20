@@ -4,35 +4,82 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar)|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
+| Name | 高橋 一騎 (Takahashi Ikki)|
+| Blog | [お？意外といけるやん！](https://www.ikkitang1211.site/) |
+| Github | [TakahashiIkki](https://github.com/TakahashiIkki) |
+| SpeakerDeck | [TakahashiIkki](https://speakerdeck.com/TakahashiIkki) |
+| Twitter | [@ikkitang](https://twitter.com/ikkitang) |
+| Qiita | [ikkitang](https://qiita.com/ikkitang) |
+| Zenn | [ikkitang](https://zenn.dev/ikkitang) |
 
 ## スキル
-### 言語
-- Ruby
+
+### 言語やフレームワーク
+
 - PHP
-- Java
-- などなど
+  - 実務経験 5年
+    - 5.3 ~ 7.3
+    - CakePHP2.x および 3.x (3.xは2.xからリファクタリングした)
+    - CodeIgniter 2.x および 3.x (3.xは2.xからリファクタリングした)
+- Python
+  - 実務経験 3年
+    - 3.6
+    - Django Rest Framework
+- JavaScript
+  - 実務経験 5年
+  - Webpackを使うなどの今風ではなくて、管理画面から実行するJSを書いたり、既にあるものに対して修正する程度
+  - jQuery 実務経験 2年
+  - Vue.js 2.x 実務経験 1年
+  - AngularJS(1.0) 実務経験 1年
+    - MonacaというソフトウェアでiOS・Androidのクロスプラットフォーム開発をやっていた
+  - React 実務経験 ほぼ無し
+    - Reactを使ったSPAサイトの構築の際にテックリードとして在籍
+    - フロントのAPIを改修する程度は行った
+- VB.net (VB6, VB Access)
+  - 実務経験 2年
+    - 新卒で採用された会社でやっていた
 
-### フレームワーク
+### OSS
 
-- Ruby on Rails
-- Laravel
-- Spring Boot
-- などなど
+- PostgreSQL
+  - 実務経験 3年
+    - 10.x ~ 11.x
+  - [日本PostgreSQLユーザー会](https://www.postgresql.jp/) の理事として勉強会を開催しています
+  - データベースリファクタリング経験有り
+    - [PostgreSQL Conference Japan 2018 に参加&異種DB移行プロジェクトについて登壇させて頂いた。](https://www.ikkitang1211.site/entry/pgconf18j)
+- MySQL
+  - 実務経験 5年
+    - 5.5 ~ 5.7
+    - Amazon Aurora 1.x 
+- Terraformm
+  - 実務経験 半年
+    - PHP Webアプリケーションのサーバー構築
+      - CloudFront - ALB - TargetGroup - ECS on Fargate
+      - AutoScalingの設定
+    - WebSocketアプリケーションのサーバー構築
+      - ALB - TargetGroup - ECS on Fargate
+      - AutoScalingの設定
+- MemCached / Redis
+  - 実務経験 2年
+  - キャッシュ・セッション用 ストレージとしてぐらい
+
+### サービス
+
+- Github
+  - [プロジェクトボード](https://docs.github.com/ja/free-pro-team@latest/github/managing-your-work-on-github/about-project-boards) を用いた開発経験がある
+    - 上記で `レビュー待ち` 中のPRをSlackに連携するツールをGithubAPIを用いて開発した
+    - [オミカレを支えるチーム開発 ~プロダクトを支える文化~/phpconference-sendai2019-omicale?slide=58](https://speakerdeck.com/takahashiikki/phpconference-sendai2019-omicale?slide=58)
+- Backlog
+- CircleCI
+  - ビルドをして AWS ECR に配置する経験あり
 
 ### その他
 
+- Git
+- Docker
+- テックリードとして7名のチームに在籍して、メンバーと月1で1on1をやっていた
+- リアーキテクト
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
-
-## 言語
-
-- 日本語
-  - ネイティブ
-- 英語
-  - かんたんな日常会話ができる
-  - TOEIC: xxx点
 
 ## 強み
 
