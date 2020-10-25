@@ -224,15 +224,59 @@ AWSのインフラの設計や実際に作っていったり色々なことを�
   - pl/v8 (PostgreSQLのトリガーをJSで書く事が出来るようになる)
   - AWS DMS(Database Migration Service)
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+##### サイトフルリニューアル
 
-職務: サーバーサイドエンジニア
+- 期間： 2019/03 ~ 2019/06
+- 当時やっていた事はエンジニアHubに寄稿という形でアウトプットしております。
+  - [技術的負債を徹底的に解消した話 - オミカレのシステムフル刷新のためにやったことを全部教える](https://employment.en-japan.com/engineerhub/entry/2020/04/09/103000)
+- 主な業務内容
+  - フルリニューアル後の開発基盤の開発
+  - バックエンド側のアプリケーションの開発・設計
+- 使用言語
+  - PHP (CodeIgniter)
+- 使用ツール
+  - Docker (開発環境で採用、ECS Fargateで本番環境で導入)
 
-#### 職務内容の名前（レストラン検索とか）
+##### オミカレ新規プロジェクト(ビデオチャット)の立ち上げ
 
-- 職務内容の詳細を箇条書きでかく
+- 期間： 2020/05 ~ 2020/11
+- 主な業務内容
+  - インフラの設計・開発
+  - データベースの設計・保守
+  - バックエンド側のアプリケーションの開発・設計
+  - バックエンドから実行されるAPIの開発・設計
+  - インフラの保守
+- 使用言語
+  - PHP (CodeIgniter)
+  - Python (Django)
+- 使用ツール
+  - Terraform (AWSのリソース管理)
+  - Ansible (APIのリリース作業)
 
-## 課外活動
+##### オミカレ本体サイトの開発保守
+
+- 期間： 2018/05 ~ (現在)
+- 主な業務内容
+  - バックエンド側のアプリケーションの開発・設計
+  - バックエンドから実行されるAPIの開発・設計
+  - データベースの設計・保守
+  - インフラの保守
+- 使用言語
+  - PHP (CodeIgniter)
+  - Python (Django)
+- 使用ツール
+  - Terraform (AWSのリソース管理)
+  - Ansible (APIのリリース作業)
+
+## 登壇歴
+
+- 2015~2019
+  - [オープンセミナー岡山2015](https://oso-web.doorkeeper.jp/events/42344)
+  - [中国地方DB勉強会](https://dbstudychugoku.connpass.com/) 
+    - [設計をする上で役にたった制約について](https://speakerdeck.com/takahashiikki/she-ji-wosurushang-teyi-nitatutazhi-yue-nituite)
+    - [7年振りの大型アップデート_PostgreSQL10とは](https://speakerdeck.com/takahashiikki/7nian-zhen-rifalseda-xing-atuhuteto-postgresql10toha)
+  - [岡山モバイルアプリ開発勉強会](https://okmoku.connpass.com/) 
+
 
 ### 社外プロジェクト
 * [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
