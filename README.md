@@ -276,21 +276,17 @@ AWSのインフラの設計や実際に作っていったり色々なことを�
     - [設計をする上で役にたった制約について](https://speakerdeck.com/takahashiikki/she-ji-wosurushang-teyi-nitatutazhi-yue-nituite)
     - [7年振りの大型アップデート_PostgreSQL10とは](https://speakerdeck.com/takahashiikki/7nian-zhen-rifalseda-xing-atuhuteto-postgresql10toha)
   - [岡山モバイルアプリ開発勉強会](https://okmoku.connpass.com/) 
-
+- 2020
+  - [2020-01-25 第28回 中国地方DB勉強会](https://dbstudychugoku.connpass.com/event/158127/) 
+    - [PostgreSQL12 新機能ご紹介](https://speakerdeck.com/takahashiikki/chugokudb28-1)
 
 ### 社外プロジェクト
-* [運営に携わっているコミュニティ](そのコミュニティのconnpassやカンファレンスページのリンクとか)
-* [副業で携わっているサービス](そのサービスのランディングページのリンクとか)
 
-### 過去の登壇資料
-* [Speaker Deck](Speaker Deckの自分の資料のページとか)
-
-### 受賞歴
-* [イベント名と受賞した賞](イベントのランディングページのリンクや、結果がわかる記事など)
+- [日本PostgreSQLユーザー会](https://www.postgresql.jp/))
+  - 期間: 2017/06 ~ (現在)
+  - NPOのPostgreSQLのユーザー会の理事として、中国地方支部長という役職で活動をしています
+  - [中国地方DB勉強会](https://dbstudychugoku.connpass.com/) を年4回とかのスパンで開催しています。
 
 ### 執筆歴
-* [書籍の名前](Amazonのリンクとか)
-* [Qiita](Qiitaの自分のプロフィールのリンクとか)
-* [ネットメディアの記事](記事のリンクとか)
-* [SoftwareDesignやWEB+DBのこの月の特集](その月のアーカイブのリンクとか)
-* [技術系同人誌](boothのリンクとか自分のサイトの紹介リンクとか)
+
+- [技術的負債を徹底的に解消した話 - オミカレのシステムフル刷新のためにやったことを全部教える](https://employment.en-japan.com/engineerhub/entry/2020/04/09/103000)
